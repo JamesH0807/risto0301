@@ -43,7 +43,7 @@
   <code><img width='100px' src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width='100px' src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
   <code><img width='100px' src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-ar21.svg"></code>111
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-ar21.svg"></code>
 </p>
 <br/>
 ⚡ **Statistics**
