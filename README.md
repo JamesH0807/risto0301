@@ -6,9 +6,9 @@
   </p>
 <br>
 
-**Languages and Tools:**
+⚡ **Languages and Tools:**
 
-<p>
+<p align="center">
   <code><img width='10%' src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg'/></code>
   <code><img width='10%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png'/></code>
   <code><img width='10%' src='https://www.vectorlogo.zone/logos/angular/angular-ar21.svg'/></code>
@@ -26,7 +26,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-fsUCSesKopV4ociDg1Z3kAWrYOyAFAq5Jghd1KhAm6KTkOxEqojHlYdmtiCJSwoPq4&usqp=CAU"></code>
   <code><img width='10%' src='https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg'/></code>
   <code><img width='10%' src='https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg'/></code>
   <code><img width='10%' src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg'/></code>
@@ -36,10 +35,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 </p>
 <br/>
-⚡ Statistics
+⚡ **Statistics**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=risto0301&theme=algolia" alt="risto0301" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=risto0301&theme=tokyonight">
 </p>
-⚡ Recent GitHub Activity
+⚡ **Recent GitHub Activity**
 <a href="https://github.com/risto0301"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=risto0301&custom_title=Recent%20Activity&theme=react-dark" /></a>
