@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 there</h1>
 <h3 align="center">I am a Full Stack Developer | Blockchain Engineer🌟.</h3>
 <br>
+<p align='center'>
 <img src="https://profile-counter.glitch.me/infiniteaengus/count.svg" />
+  <p/>
 <br>
 
 
