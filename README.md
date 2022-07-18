@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋 there</h1>
 <h3 align="center">I am a Full Stack Developer | Blockchain Engineer🌟.</h3>
 <br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=risto0301&label=Profile%20views&color=0e75b6&style=flat"
-    alt="risto0301" /> 
-  </p>
+<img src="https://profile-counter.glitch.me/infiniteaengus/count.svg" />
 <br>
 
 
