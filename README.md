@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 there</h1>
-<h3 align="center">I am a Front-End | Web3 Engineer🌟.</h3>
+<h3 align="center">I am a Full Stack Developer🌟.</h3>
 <br>
 <p align='center'>
 <img src="https://profile-counter.glitch.me/risto0301/count.svg" />
